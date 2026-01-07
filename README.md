@@ -1,8 +1,7 @@
-# `Hi,`
-## `I'm Ash Richter,`
-## `a Game Developer based in London.`
+`Hi,
+I'm Ash Richter,
+a Game Developer based in London.`
 
-###
 ![skills](https://img.shields.io/static/v1?label=&message=Skills:&color=111&style=flat-square)
 ![csharp](https://img.shields.io/static/v1?logo=csharp&label=&message=c%23&color=4C566A&logoColor=EEE&style=flat-square)
 ![cpp](https://img.shields.io/static/v1?logo=cplusplus&label=&message=c%2B%2B&color=4C566A&logoColor=EEE&style=flat-square)
