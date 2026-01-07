@@ -17,5 +17,3 @@
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=4C566A&logoColor=EEE&style=flat-square)
 ![github](https://img.shields.io/static/v1?logo=github&label=&message=github&color=4C566A&logoColor=EEE&style=flat-square)
 ![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=4C566A&logoColor=EEE&style=flat-square)
-
----
